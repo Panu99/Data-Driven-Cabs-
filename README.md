@@ -6,7 +6,7 @@ Its an Mini Project ,Naming as Smart Cab its Basically an web application done t
 and its Done as 6th sem Project so that its under the guidence of DR.Siddesh.G.M so  that we are thankfull to sir.
 
 
-we Got An Certified from MSRIT
+We got An Certificated from MSRIT
 
 
 RAMAIAH INSTITUTE OF TECHNOLOGY
