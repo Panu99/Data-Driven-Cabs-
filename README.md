@@ -39,5 +39,12 @@ Name of the Examiners:	                                                         
 1. 
 2.
 
-OUTPUT:
+OUTPUT1:
+## Simulation
+![](smart.jpg)
 
+OUTPUT2:
+![](smart1.jpg)
+
+OUTPUT3:
+![](smart2.jpg)
